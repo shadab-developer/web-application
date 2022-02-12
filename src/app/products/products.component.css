@@ -1,0 +1,18 @@
+.product {
+  display: flex;
+  gap: 20px;
+}
+.conatiner {
+  margin: 50px 50px;
+}
+.conatiner h2 {
+  margin-bottom: 40px;
+}
+h4 {
+  background-color: green;
+  padding: 20px 50px;
+  color: white;
+}
+.btn {
+  margin-bottom: 30px;
+}

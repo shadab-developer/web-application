@@ -1,19 +1,4 @@
 .container-fluid {
   padding: 0;
 }
-.navbar {
-  padding: 15px 10px;
-}
-.login-form {
-  width: 400px;
-  padding: 40px 0;
-}
-.page-footer {
-  background-color: black;
-  color: white;
-}
-.footer-copyright a {
-  color: white;
-  text-decoration: none;
-  text-transform: uppercase;
-}
+
